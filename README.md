@@ -1,9 +1,7 @@
 {
-- 👋 Hi, I’m @harsh 25 || 69,
-- 👀 I’m interested in ... Cute Programmer,
+- 👋 Hi, I’m @harsh25
 - 🌱 I’m currently learning .. the survival game,
-- 💞️ I’m looking to collaborate on ... BlockChain,BreakTime,Bike Ride,
-- 📫 How to reach me ... Athika,MCC HEBER Gate,East Tambaram,Chennai.... @5:30.p.m Everyday
+- I’m looking to collaborate on ... Solidity , react.js ,web3 ,UI.UX projects etc
 - }
 
 <!---
