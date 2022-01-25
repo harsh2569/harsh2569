@@ -1,6 +1,6 @@
 {
 - 👋 Hi, I’m @harsh25
-- 🌱 I’m currently learning .. the survival game,
+- 🌱 I’m currently learning ..,
 - I’m looking to collaborate on ... Solidity , react.js ,web3 ,UI.UX projects etc
 - }
 
